@@ -1,4 +1,4 @@
-#  Simple aplikasi Sumpah Pemuda (Tugas2 Pemograman Mobile)
+#  W.R Supratman (Tugas2 Pemograman Mobile)
  Aplikasi ini menjelaskan tentang hari sumpah pemuda
 ### Screenshot
  Letakan gambar aplikasi disini 
