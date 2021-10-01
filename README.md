@@ -1,4 +1,4 @@
-#  W.R Supratman (Tugas2 Pemograman Mobile)
+#  M Yamin (Tugas2 Pemograman Mobile)
  Aplikasi ini menjelaskan tentang hari sumpah pemuda
 ### Screenshot
  Letakan gambar aplikasi disini 
