@@ -1,5 +1,5 @@
-#  Simple aplikasi  (Tugas kedua pemrogrman mobile)
- Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia 
+#  Simple aplikasi Sumpah Pemuda (Tugas2 Pemograman Mobile)
+ Aplikasi ini menjelaskan tentang hari sumpah pemuda
 ### Screenshot
  Letakan gambar aplikasi disini 
 
@@ -7,7 +7,7 @@
 -  widget Image, Text, Row, Column, dan Icon 
 
 ### Created By
--  Stanley Tejadinata
+-  Oswaldo Steven
     
 ### Mata Kuliah
 COE-5109 Pemprograman Mobile.
